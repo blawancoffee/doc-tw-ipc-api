@@ -1,0 +1,11 @@
+com.twsz.ipcplatform.facade
+com.twsz.ipcplatform.facade.entity.audio
+com.twsz.ipcplatform.facade.entity.bind
+com.twsz.ipcplatform.facade.entity.common
+com.twsz.ipcplatform.facade.entity.config
+com.twsz.ipcplatform.facade.entity.control
+com.twsz.ipcplatform.facade.entity.device
+com.twsz.ipcplatform.facade.entity.user
+com.twsz.ipcplatform.facade.entity.video
+com.twsz.ipcplatform.facade.factory
+com.twsz.ipcplatform.facade.util
